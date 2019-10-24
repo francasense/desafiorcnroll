@@ -1,17 +1,6 @@
-import React, { Component } from 'react';
-//import Header from './components/Header';
-import Main from './pages/main';
-import './App.css';
-//import StyledGlobal from './styles/global';
+import React from 'react';
+import Routes from './routes';
 
-
-class App extends Component {
-
-  render() {
-    return (
-       <Main />
-    );
-  } 
-}
+const App = () => <Routes />
 
 export default App;

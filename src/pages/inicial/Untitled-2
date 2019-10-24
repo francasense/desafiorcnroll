@@ -1,0 +1,29 @@
+<li key={track.collectionId}>
+                                    <img src={track.artworkUrl60}  />                       
+                                    <div className="divlinhas" >
+                                        <span>{track.collectionName}</span>
+                                        <strong>{track.primaryGenreName}</strong>
+                                    </div>
+                                </li>
+
+
+
+                                "start": "node server.js",
+
+
+
+
+
+                                <div>
+		<PhotoGrid columns={3} photos={demoPhotos} />
+	</div>,
+
+        <div flex-flow={'row wrap'} >
+                                    <img src={track.artworkUrl60}  />                       
+
+                                    <div className="divlinhas" >
+                                        <span>{track.collectionName}</span>
+                                        <strong>{track.primaryGenreName}</strong>
+                                    </div>
+
+                                </div>
